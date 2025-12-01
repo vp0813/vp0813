@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm ##Vaishnavi Patra a third year student currently pursuing Computer Engineering.
+I'm <u>Vaishnavi Patra</u> a third year student currently pursuing Computer Engineering.
 
 I love building projects that can solve real-world problems.
 I am proficient in C++, Python and Javascript.
